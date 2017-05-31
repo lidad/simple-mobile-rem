@@ -11,7 +11,7 @@ rem();//默认基准字体大小为16px（iphone6设计图），其余两个参�
 SASS:
 ```
 //sass中建立rem.scss文件并写入仓库中rem.scss代码，注意$font与$screen皆是iphone6设计图尺寸
-import 'rem.scss';
+@import 'rem.scss';
 .wrap {
   width:px2rem(280);
 }
