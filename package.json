@@ -1,0 +1,21 @@
+{
+  "name": "simple-mobile-rem",
+  "version": "1.0.0",
+  "description": "a simple rem tool for mobile",
+  "main": "rem.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidad/simple-mobile-rem.git"
+  },
+  "keywords": [
+    "rem"
+  ],
+  "author": "dadel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lidad/simple-mobile-rem/issues"
+  },
+  "homepage": "https://github.com/lidad/simple-mobile-rem#readme"
+}

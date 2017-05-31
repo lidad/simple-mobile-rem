@@ -13,6 +13,6 @@ SASS:
 //sass中建立rem.scss文件并写入仓库中rem.scss代码，注意$font与$screen皆是iphone6设计图尺寸
 import 'rem.scss';
 .wrap {
-  width:px2rex(280);
+  width:px2rem(280);
 }
 ```
